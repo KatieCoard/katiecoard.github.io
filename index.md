@@ -9,7 +9,7 @@ title: "Rethink Rotary"
 header:Questioning How We Do Rotary
    image_fullwidth: "header_unsplash_12.jpg"
 widget-1:
-    title: "Blog & Portfolio "
+    title: "Blog & Portfolio"
     url: 'http://phlow.github.io/feeling-responsive/blog/'
     text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
     image: unsplash_9-302x182.jpg
