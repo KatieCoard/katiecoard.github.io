@@ -6,7 +6,7 @@
 #
 layout: frontpage
 title: "Feeling Katie"
-header: "A Header By Katie"
+header:
    image_fullwidth: "header_unsplash_12.jpg"
 widget-1:
     title: "Blog & Portfolio - Adam Rules!"
