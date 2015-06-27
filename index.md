@@ -7,7 +7,7 @@
 layout: frontpage
 title: "Feeling Katie"
 header:
-   image_fullwidth: "header_unsplash_12.jpg"
+   image_fullwidth: "header_typewriter.jpg"
 widget-1:
     title: "Blog & Portfolio - Adam Rules!"
     url: 'http://phlow.github.io/feeling-responsive/blog/'
