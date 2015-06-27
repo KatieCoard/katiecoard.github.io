@@ -5,7 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-title: "Feeling Katie"
+title: "Rethink Rotary"
 header:
    image_fullwidth: "header_typewriter.jpg"
 widget-1:
