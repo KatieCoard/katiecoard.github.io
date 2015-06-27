@@ -5,8 +5,8 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-title: "Feeling Responsive – A Jekyll Theme Based On Foundation"
-header:
+title: "Rethink Rotary"
+header:Questioning How We Do Rotary
    image_fullwidth: "header_unsplash_12.jpg"
 widget-1:
     title: "Blog & Portfolio - Adam Rules!"
