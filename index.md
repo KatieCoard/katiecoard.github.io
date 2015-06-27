@@ -6,7 +6,7 @@
 #
 layout: frontpage
 title: "Rethink Rotary"
-header:Questioning How We Do Rotary
+header: "Questioning How We Do Rotary"
    image_fullwidth: "header_unsplash_12.jpg"
 widget-1:
     title: "Blog & Portfolio"
