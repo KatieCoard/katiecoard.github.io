@@ -9,7 +9,7 @@ title: "Rethink Rotary"
 header:
    image_fullwidth: "header_typewriter.jpg"
 widget-1:
-    title: "Rethink Rotary Blog"
+    title: "fuck this themeRethink Rotary Blog"
     url: 'https://katiecoard.github.io/blog/'
     text: 'This is blog engages with Rotarians all other world and encourgaes them to <em>rethink</em> how they do Rotary. Rotary clubs need to change in order attract new members and to continue to be sucessful for future generations. 
 
