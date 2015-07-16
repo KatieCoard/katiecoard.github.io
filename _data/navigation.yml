@@ -11,7 +11,7 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: About Me
+- title: About
   url: "/about/"
   side: left
   dropdown:
@@ -20,12 +20,8 @@
   - title: "My Services"
     url: "/design/header-image-pattern/"
 
-- title: Services
+- title: "Downloads"
   url: "/design/"
-  side: left
-
-  - title: "Get In Touch"
-  url: "/contact/"
   side: left
   # dropdown:
   # - title: "Grid & Colors"
@@ -83,4 +79,6 @@
 #   url: "/search/"
 #   side: right
 
-
+- title: "Get In Touch"
+  url: "/contact/"
+  side: right
