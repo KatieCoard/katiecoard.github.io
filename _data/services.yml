@@ -1,16 +1,16 @@
 - menu_name: "Services"
 
-- name: "My Services"
+- name: "Consultancy: Rethink Your Club"
   url: "/sitemap.xml"
   class: "services-link"
-  title: "Services I can provide"
+  title: "Consultancy Services for Rotary Clubs"
 
 - name: "Get In Touch"
   url: "/contact/"
-  class: "services-contact"
+  class: "email"
   title: "Contact"
 
-- name: "Follow me on Twitter"
+- name: "Follow RethinkRotary on Twitter"
   url: http://twitter.com/RethinkRotary
   class: "Twitter-link"
   title: "Follow RethinkRotary on Twitter"
