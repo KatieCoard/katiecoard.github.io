@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Adam Test"
+title: "Get to know the Creator"
 meta_title: "Contact and use our contact form"
 show_meta: false
 subheadline: "Wufoo-powered contact forms"
