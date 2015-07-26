@@ -5,7 +5,13 @@
 
 - name: Twitter
   url: http://twitter.com/RethinkRotary
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  class: 'icon-twitter'
+  title: "@RethinkRotary"
+
+- name: LinkedIn
+  url: https://ca.linkedin.com/in/katiecoard
+  class: 'icon-linkedin'
+  title: LinkedIn"
 
 # - name: Facebook
 #   url: http://www.facebook.com/phlow.media

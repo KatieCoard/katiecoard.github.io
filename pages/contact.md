@@ -6,11 +6,10 @@ show_meta: false
 teaser: "Get in touch with me? Use the contact form."
 permalink: "/contact/"
 ---
-Get in touch!  You can email me at [EMAIL], or use the form below – they both end up in my inbox.
+Get in touch!  You can email me at <a mailto="rethinkingrotary@gmail.com">rethinkingrotary@gmail.com</a>, or use the form below – they both end up in my inbox.
 
-Katie don't forget to change the "your@email.com" part (in the form tag).
 
-<form action="//formspree.io/your@email.com"
+<form action="//formspree.io/rethinkingrotary@gmail.com"
       method="POST">
     <label>Name<input type="text" name="name" placeholder="Jane Smith"></label>
     <label>Email<input type="email" name="_replyto" placeholder="janesmith@gmail.com"></label>
