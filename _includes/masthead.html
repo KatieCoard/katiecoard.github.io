@@ -46,6 +46,45 @@
 
 
 
+
+{% elsif page.header.video %}
+
+<div id="masthead">
+	<div class="row">
+		<div class="small-12 columns">
+			<a id="logo" href="{{ site.url }}" title="{{ site.title }} – {{ site.slogan }}">
+				<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}">
+
+				<div class="covervid-wrapper">
+				    <video class="covervid-video" autoplay loop poster="img/video-fallback.png">
+				        <source src="assets/video/{{page.header.video}}" type="video/mp4">
+				    </video>
+				</div>
+
+			</a>
+		</div><!-- /.small-12.columns -->
+	</div><!-- /.row -->
+</div><!-- /#masthead -->
+
+{% if page.breadcrumb == true %}
+{% include breadcrumb.html %}
+{% endif %}
+
+{% if page.header.caption_url && page.header.caption %}
+<div class="masthead-caption">
+	<a href="{{ page.header.caption_url }}">{{ page.header.caption }}</a>
+</div>
+{% elsif page.header.caption %}
+<div class="masthead-caption">
+	{{ page.header.caption }}
+</div>
+{% endif %}
+
+
+
+
+
+
 {% elsif page.header.image_fullwidth %}
 
 <div id="masthead">
