@@ -1,7 +1,7 @@
 - menu_name: "Services"
 
 - name: "My Services"
-  url: "/sitemap.xml"
+  url: "/services/"
   class: "services-link"
   title: "Services I can provide"
 
@@ -10,9 +10,6 @@
   class: "services-contact"
   title: "Contact"
 
-- name: "Follow me on Twitter"
-  url: http://twitter.com/RethinkRotary
-  class: "Twitter-link"
-  title: "Follow RethinkRotary on Twitter"
-
-
+- name: "Sitemap"
+  url: "/sitemap.xml"
+  title: "sitemap"
