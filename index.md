@@ -7,7 +7,6 @@
 layout: frontpage
 title: "Rethink Rotary"
 header:
-   video_fallback: "header_typewriter.jpg"
    video: "dreamscapes.mp4"
 widget-1:
     title: "Blog & Portfolio - Adam Rules!"
