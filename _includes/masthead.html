@@ -54,16 +54,18 @@
 		<div class="small-12 columns">
 			<a id="logo" href="{{ site.url }}" title="{{ site.title }} – {{ site.slogan }}">
 				<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}">
-
-				<div class="covervid-wrapper">
-				    <video class="covervid-video" autoplay loop poster="img/video-fallback.png">
-				        <source src="assets/video/{{page.header.video}}" type="video/mp4">
-				    </video>
-				</div>
-
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
+	<div class="covervid-wrapper">
+
+	    <!-- <video class="covervid-video" autoplay loop poster="{{ site.urlimg }}/{{ page.header.video_fallback }}"> -->
+	    <video class="covervid-video" autoplay muted loop>
+	        <!-- <source src="assets/video/{{page.header.video}}" type="video/mp4"> -->
+	        <source src="http://stefanerickson.github.io/covervid/assets/videos/dreamscapes.mp4" type="video/mp4">
+	        
+	    </video>
+	</div>
 </div><!-- /#masthead -->
 
 {% if page.breadcrumb == true %}
