@@ -3,16 +3,20 @@ layout: page
 title: "Contact"
 meta_title: "Contact and use our contact form"
 show_meta: false
-subheadline: "Wufoo-powered contact forms"
 teaser: "Get in touch with me? Use the contact form."
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
+Get in touch!  You can email me at [EMAIL], or use the form below – they both end up in my inbox.
 
-<div class="panel">
-<iframe width="100%" height="650" frameborder="0" scrolling="no" src="https://phlowmedia.wufoo.com/embed/z7x3k1/"></iframe>
-</div>
+Katie don't forget to change the "your@email.com" part (in the form tag).
 
-
-
- [1]: http://www.wufoo.com/
+<form action="//formspree.io/your@email.com"
+      method="POST">
+    <label>Name<input type="text" name="name" placeholder="Jane Smith"></label>
+    <label>Email<input type="email" name="_replyto" placeholder="janesmith@gmail.com"></label>
+    <label>Message<textarea name="message"></textarea></label>
+    <!-- This link is the page the user is forwarded to after submission
+    We can set this up once we know the permanent domain name.
+    <input type="hidden" name="_next" value="//site.io/thanks.html" /> -->
+    <input type="submit" value="Send" class='medium button radius'>
+</form>

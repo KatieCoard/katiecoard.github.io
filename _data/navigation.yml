@@ -1,27 +1,17 @@
-- title: Home
+- title: <span class="icon-tree">Rethink Rotary</span>
   url: "/"
   side: left
 
 - title: Blog
   url: "/blog/"
   side: left
-  dropdown:
-  - title: Blog
-    url: "/blog/"
-  - title: "Blog Archive"
-    url: "/blog/archive/"
 
 - title: About
   url: "/about/"
   side: left
-  dropdown:
-  - title: "About me"
-    url: "/design/header-full-width-image/"
-  - title: "My Services"
-    url: "/design/header-image-pattern/"
 
-- title: "Downloads"
-  url: "/design/"
+- title: "Services"
+  url: "/services/"
   side: left
   # dropdown:
   # - title: "Grid & Colors"
