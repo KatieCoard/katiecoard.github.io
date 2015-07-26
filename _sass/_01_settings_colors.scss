@@ -44,6 +44,7 @@ $warning-color: $ci-4;
 $info-color: $ci-2;
 
 $light-primary: lighten($primary-color, 35%);
+$light-primary-hover: darken($light-primary, 5%);
 
 
 
@@ -82,16 +83,16 @@ $topbar-link-color-active: #000;
 $topbar-link-color-active-hover: #000;
 
 $topbar-dropdown-label-color: $ci-2;
-$topbar-dropdown-link-bg-hover: $light-primary;
+$topbar-dropdown-link-bg-hover: $light-primary-hover;
 
 $topbar-link-bg-active: $light-primary; // Active Navigation Link
-$topbar-link-bg-hover: $light-primary;
+$topbar-link-bg-hover: $light-primary-hover;
 $topbar-link-bg-active-hover: $ci-2;
 
 
 $topbar-dropdown-bg: $light-primary; // Background Mobile Navigation
 $topbar-dropdown-link-color: #000;
-$topbar-dropdown-link-bg: $ci-2;
+$topbar-dropdown-link-bg: $light-primary;
 
 $topbar-menu-link-color-toggled: $ci-1;
 $topbar-menu-icon-color-toggled: $ci-1;
