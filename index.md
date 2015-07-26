@@ -10,7 +10,7 @@ header:
    image_fullwidth: "header_typewriter.jpg"
 widget-1:
     title: "Blog & Portfolio - Adam Rules!"
-    url: 'http://phlow.github.io/feeling-responsive/blog/'
+    url: 'http://reddit.com/'
     text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
     image: unsplash_9-302x182.jpg
 widget-2:
