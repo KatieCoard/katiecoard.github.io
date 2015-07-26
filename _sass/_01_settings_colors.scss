@@ -26,23 +26,24 @@ $body-bg: 			#fdfdfd;
 ------------------------------------------------------------------- */
 
 $ci-1: #334D5C;		// dark turquoise
-$ci-2: #45B29D;		// turquoise
+$ci-2: #536FE1;		// CHANGED for Rotary site - , blue
 $ci-3: #EFC94C;		// yellow
 $ci-4: #E27A3F;		// orange
 $ci-5: #DF4949;		// red
 $ci-6: #A1D044;     // green
 
 
-
 /* Foundation Color Variables
 ------------------------------------------------------------------- */
 
-$primary-color: $ci-1;
+$primary-color: $ci-2;
 $secondary-color: $ci-6;
 $alert-color: $ci-5;
 $success-color: $ci-6;
 $warning-color: $ci-4;
-$info-color: $ci-1;
+$info-color: $ci-2;
+
+$light-primary: lighten($primary-color, 35%);
 
 
 
@@ -81,14 +82,14 @@ $topbar-link-color-active: #000;
 $topbar-link-color-active-hover: #000;
 
 $topbar-dropdown-label-color: $ci-2;
-$topbar-dropdown-link-bg-hover: $ci-6;
+$topbar-dropdown-link-bg-hover: $light-primary;
 
-$topbar-link-bg-active: $ci-6; // Active Navigation Link
-$topbar-link-bg-hover: $ci-6;
+$topbar-link-bg-active: $light-primary; // Active Navigation Link
+$topbar-link-bg-hover: $light-primary;
 $topbar-link-bg-active-hover: $ci-2;
 
 
-$topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
+$topbar-dropdown-bg: $light-primary; // Background Mobile Navigation
 $topbar-dropdown-link-color: #000;
 $topbar-dropdown-link-bg: $ci-2;
 
@@ -96,17 +97,18 @@ $topbar-menu-link-color-toggled: $ci-1;
 $topbar-menu-icon-color-toggled: $ci-1;
 $topbar-menu-link-color: #000;
 $topbar-menu-icon-color: #000;
-$topbar-menu-link-color-toggled: $ci-6;
-$topbar-menu-icon-color-toggled: $ci-6;
+$topbar-menu-link-color-toggled: $light-primary;
+$topbar-menu-icon-color-toggled: $light-primary;
 
 
 
 /* Footer
 ------------------------------------------------------------------- */
 
-$footer-bg: $grey-8;
-$footer-color: #fff;
-$footer-link-color: $ci-6;
+$footer-bg: $grey-13;
+$footer-color: $grey-1;
+$footer-header-color: ligthen($grey-1, 5%);
+$footer-link-color: lighten($primary-color, 10%);
 
 
 $subfooter-bg: $grey-13;
