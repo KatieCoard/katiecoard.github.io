@@ -1,12 +1,13 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact and use our contact form"
+sidebar: right
+title: "Get In Touch"
+meta_title: "Contact Rethink Rotary"
 show_meta: false
-teaser: "Get in touch with me? Use the contact form."
+teaser: "Let's start the conversation"
 permalink: "/contact/"
 ---
-Get in touch!  You can email me at <a mailto="rethinkingrotary@gmail.com">rethinkingrotary@gmail.com</a>, or use the form below – they both end up in my inbox.
+If you have questions, suggestions, want to submit a blog post, or just want to chat. The best way to get in touch is to email me at <a mailto="rethinkrotary@gmail.com">rethinkingrotary@gmail.com</a>, or use the form below – either way they both end up in my inbox. 
 
 
 <form action="//formspree.io/rethinkingrotary@gmail.com"

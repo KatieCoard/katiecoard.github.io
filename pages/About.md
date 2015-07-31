@@ -1,15 +1,16 @@
 ---
 layout: page
+sidebar: right
 title: "Why Rethink Rotary?"
 meta_title: "Why Rethink Rotary"
 show_meta: false
 subheadline: "Creating an Online Source for Rotarians Worldwide"
-permalink: "/about/"
+permalink: "/WhyRethinkRotary/"
 ---
 <img src="/assets/img/katie.jpg" style='border-radius: 100%;'>
 
 <h1>Meet Katie Coard</h1>
-<span class="gray"><i>Rotarian, Online Content Manager and Trainer</i></span>
+<span class="gray"><i>Rotarian, Online Content Manager and Educator</i></span>
 <div>
     <a href="https://facebook.com/katiecoard">
       <i class="fa fa-facebook"></i>
@@ -40,3 +41,5 @@ During her time creating and tackling the reasoning behind creating the club, Ka
 
 <h3><b>Reach out</b></h3>
 Katie loves to hear from Rotarians and Rotary club from all over the world. Reach out to Katie personally, send a guest blog to be published, engage with a Rethink Rotary blog/tweet or email about the services Rethink Rotary provides. For us to work to make Rotary relevant to the world we live in, we have to start a conversation. Now's the time
+
+

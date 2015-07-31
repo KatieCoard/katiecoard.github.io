@@ -109,7 +109,39 @@ button, .button         { letter-spacing: 1px; }
 
 .homepage p { margin: 0; padding: 0; color: $grey-10; }
 
-
+#optin {
+    background: #efefef;
+    border: 1px solid #ccc;
+    padding: 20px 15px;
+    text-align: center
+}
+    #optin input {
+        background: #fff;
+        border: 1px solid #ccc;
+        font-size: 15px;
+        margin-bottom: 10px;
+        padding: 8px 10px;
+        border-radius: 3px;
+        -moz-border-radius: 3px;
+        -webkit-border-radius: 3px;
+        box-shadow: 0 2px 2px #ddd;
+        -moz-box-shadow: 0 2px 2px #ddd;
+        -webkit-box-shadow: 0 2px 2px #ddd
+    }
+        #optin input.name { background: #fff url(images/name.png) no-repeat 10px center; padding-left: 35px }
+        #optin input.email { background: #fff url(images/email.png) no-repeat 10px center; padding-left: 35px }
+        #optin input[type="submit"] {
+            background: #217b30 url(images/green.png) repeat-x top;
+            border: 1px solid #137725;
+            color: #fff;
+            cursor: pointer;
+            font-size: 18px;
+            font-weight: bold;
+            padding: 8px 0;
+            text-shadow: -1px -1px #1c5d28;
+            width: 100%
+        }
+            #optin input[type="submit"]:hover { color: #c6ffd1 }
 
 /* Accordion
 ------------------------------------------------------------------- */
@@ -146,4 +178,8 @@ img.lazy {
 }
 .gray {
     color:grey;
+}
+.sidebar-icons li {
+  padding-left: 5px;
+  padding-right: 5px;
 }
