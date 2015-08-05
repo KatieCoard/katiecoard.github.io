@@ -179,7 +179,28 @@ img.lazy {
 .gray {
     color:grey;
 }
-.sidebar-icons li {
+.sidebar-icons li, .social-icons a {
   padding-left: 5px;
   padding-right: 5px;
+}
+.sidebar-icons i {
+  color: grey;
+  font-size: 40px;
+}
+
+#optin .button {
+  background: none;
+  background-color: #536FE1;
+}
+
+.no-underline {
+  text-decoration: none;
+}
+
+.no-underline:hover {
+  text-decoration: none;
+}
+
+.social-icons a {
+  font-size: 20px
 }

@@ -11,17 +11,17 @@ permalink: "/WhyRethinkRotary/"
 
 <h1>Meet Katie Coard</h1>
 <span class="gray"><i>Rotarian, Online Content Manager and Educator</i></span>
-<div>
-    <a href="https://facebook.com/katiecoard">
+<div class="social-icons">
+    <a class="no-underline" href="https://facebook.com/katiecoard">
       <i class="fa fa-facebook"></i>
     </a>
-    <a href="mailto:katiebmcoard@gmail.com">
+    <a class="no-underline" href="mailto:katiebmcoard@gmail.com">
       <i class="fa fa-envelope-o"></i>
     </a> 
-    <a href="https://ca.linkedin.com/in/katiecoard">
+    <a class="no-underline" href="https://ca.linkedin.com/in/katiecoard">
       <i class="fa fa-linkedin-square"></i>
     </a>
-    <a href="https://twitter.com/RethinkRotary">
+    <a class="no-underline" href="https://twitter.com/RethinkRotary">
       <i class="fa fa-twitter"></i>
     </a>       
 </div>	

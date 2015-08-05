@@ -1,5 +1,6 @@
 ---
 layout: page
+sidebar: right
 title: "Services"
 meta_title: "Contact and use our contact form"
 show_meta: false
