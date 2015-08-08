@@ -270,3 +270,13 @@ img.lazy {
 .social-icon-leadin a:hover {
   border-bottom: none;
 }
+
+#share > div {
+  display: inline-block;
+}
+
+#share > div:nth-of-type(2){
+  position: relative;
+  top: -6px;
+  margin-left: 10px;
+}
