@@ -2,7 +2,7 @@
 layout: page
 sidebar: right
 title: "Services"
-meta_title: "Contact and use our contact form"
+meta_title: "Services provided for Rotary clubs"
 show_meta: false
 subheadline: ""
 permalink: "/services/"
@@ -16,11 +16,11 @@ Rotary is struggling to keep up with the changing needs of different generations
 <hr size="1px" color="#92927f" width="630" align="right">
 <div class="column1">
 	<h3>Website Building</h3>
-	<p>I have experience in creating html, css and wordpress websites. Depending on the needs of your Rotary club, I can work with you to create the website your club needs. Some clubs simply want a landing page for potential members. Other clubs want a more interactive site usually (but not always) built from Clubrunner or Dacdb. In these instances, I can work with the front-end code to create a great looking website.</p>
+	<p>I have experience in creating html, css and wordpress websites. Depending on the needs of a Rotary club, I work with them to create the website their club needs. Some clubs simply want a landing page for potential members. Other clubs want a more interactive site usually (but not always) built from Clubrunner or Dacdb. In these instances, I work with the front-end code to create a great looking website.</p>
 </div>
 <div class="column2">
 	<h3>Online Content Manager</h3>
-	<p>Greating online content is an art and requires great skill. You can't simply just post on Facebook or Twitter, you have to cultivate an online schedule and create material which has online value. An online content manager does the work for you so you don't have to worry. I can work with your club to create strategies and action plans to ensure your club's objectives are met across all social media mediums. </p>
+	<p>Greating online content is an art and requires great skill. You can't simply just post on Facebook or Twitter, you have to cultivate an online audience and create material which has online value. An online content manager does the work for you so you don't have to worry. I can work with your club to create strategies and action plans to ensure your club's objectives are met across all social media mediums. </p>
 </div>
 
 <hr size="1px" color="#92927f" width="630" align="right">
@@ -36,9 +36,9 @@ Rotary is struggling to keep up with the changing needs of different generations
 
 <hr size="1px" color="#92927f" width="630" align="right">
 
-If you would like to talk to me about the services I offer, request a quote or simply ask a question. I would love to hear from you, I'm here to help. You can connect with me at my business <a mailto="katiebmcoard@gmail.com">email</a>, or use the form below: 
+If you would like to talk to me about the services I offer, request a quote or simply ask a question. I would love to hear from you, I'm here to help. You can connect with me at my business <a mailto="rethinkrotary@gmail.com">email</a>, or use the form below: 
 
-<form action="//formspree.io/katiebmcoard@gmail.com"
+<form action="//formspree.io/rethinkrotary@gmail.com"
       method="POST">
     <label>Name<input type="text" name="name" placeholder="Jane Smith"></label>
     <label>Email<input type="email" name="_replyto" placeholder="janesmith@gmail.com"></label>
