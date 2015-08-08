@@ -280,3 +280,25 @@ img.lazy {
   top: -6px;
   margin-left: 10px;
 }
+
+.masthead-title {
+  height: 100%;
+  width: 100%;
+  display: table;
+
+  h1 {
+    display: table-cell;
+    vertical-align: middle;
+    text-shadow: 1px 1px 10px black;
+    color: white;
+    padding-left: 2em;
+    i {margin-right: 0.25em;}
+  }
+
+  h1.lato {
+    font-family: "Lato";
+    text-transform: uppercase;
+    font-weight: 800;
+  }
+}
+

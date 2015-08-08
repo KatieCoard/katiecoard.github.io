@@ -1,13 +1,9 @@
 {% if page.header == NULL and page.header.image_fullwidth == NULL and page.header.pattern == NULL and page.header.background-color == NULL and page.header.title == NULL %}
 
 <div id="masthead-no-image-header">
-	<div class="row">
-		<div class="small-12 columns">
-			<a id="logo" href="{{ site.url }}" title="{{ site.title }} – {{ site.slogan }}">
-				<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}">
-			</a>
-		</div><!-- /.small-12.columns -->
-	</div><!-- /.row -->
+	<a id="logo" href="{{ site.url }}" title="{{ site.title }} – {{ site.slogan }}">
+		<div class="masthead-title"><h1><i class="icon-tree"></i>Rethink Rotary</h1></div>
+	</a>
 </div><!-- /#masthead -->
 
 {% if page.breadcrumb == true %}
@@ -49,13 +45,9 @@
 {% elsif page.header.image_fullwidth %}
 
 <div id="masthead">
-	<div class="row">
-		<div class="small-12 columns">
-			<a id="logo" href="{{ site.url }}" title="{{ site.title }} – {{ site.slogan }}">
-				<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}">
-			</a>
-		</div><!-- /.small-12.columns -->
-	</div><!-- /.row -->
+	<a id="logo" href="{{ site.url }}" title="{{ site.title }} – {{ site.slogan }}">
+		<div class="masthead-title"><h1><i class="icon-tree"></i>Rethink Rotary</h1></div>
+	</a>
 </div><!-- /#masthead -->
 
 {% if page.breadcrumb == true %}
