@@ -237,23 +237,6 @@ blockquote {
  
     blockquote p {font-style: italic; color: $grey-10; }
  
-    blockquote:before {
-        display:block;content:"\00BB";
-        font-size:80px;
-        position:absolute;
-        left:-25px;
-        top:-40px;
-        color:#4b4b4d
-    }
-    blockquote:after {
-        display:block;
-        content:"\00AB";
-        font-size:80px;
-        position:absolute;
-        right:-10px;
-        bottom:-40px;
-        color:#4b4b4d;
-    }
     blockquote cite:before {
         content:"\2014 \0020"
     }

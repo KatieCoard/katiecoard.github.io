@@ -11,7 +11,8 @@ permalink: "/WhyRethinkRotary/"
 
 <h1>Meet Katie Coard</h1>
 <span class="gray"><i>Rotarian, Online Content Manager and Educator</i></span>
-<div>
+
+<div class="social-icon-leadin">
     <a href="https://facebook.com/katiecoard">
       <i class="fa fa-facebook"></i>
     </a>
@@ -25,6 +26,7 @@ permalink: "/WhyRethinkRotary/"
       <i class="fa fa-twitter"></i>
     </a>       
 </div>	
+
 <h7><b>Let's face it Rotary is struggling. Rotary is losing it's relevancy in today's modern world especially when the average age of a Rotarian in 58 years old. the organisation has not adapted to fit into changing generational expectations and now we face an amazing organisation being pushed to the sidelines.</b></h7> As the world's largest service organisation, Rotary needs to be at the cutting edge of service organisations. It needs to retain the core Rotary values but show the world how professional development, volunteering, leadership and networking can be achieved through one flexible, acessible, engaged and active organisation. How do we make Rotary relevant again? We have to Rethink Rotary starting at the club level. I found myself spending so much time pondering this dilema that I decided to take action. Rethink Rotary was created with the vision of providing a space where we can have a conversation on how to make clubs more relevant and engaged. Hang on though, we are getting ahead of ourselves. Let’s start from the beginning.
 
 <h3><b>Learning the ropes in Rotaract</b></h3>
