@@ -12,7 +12,7 @@ widget-1:
     title: "How Can We Help?"
     url: 'http://katiecoard.github/rethinkrotary'
     text: "In order to stay relevant in the modern world, Rotary clubs and Rotarians worldwide need to be open to change. However, sometimes it's hard to know where to go for the right advice. That's where Rethink Rotary comes in!<br><br>We can recommend a multitude of services to help Rotary clubs embrace the change and make sure it works for them. Some popular services are website design, social media management, workshops and our special Club Health Check."
-    image: comp.jpg
+    image: socialmedia.jpg
 widget-2:
     title: "Rethink Rotary Blog"
     url: 'http://phlow.github.io/feeling-responsive/info/'
