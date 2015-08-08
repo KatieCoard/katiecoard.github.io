@@ -11,24 +11,24 @@ permalink: "/WhyRethinkRotary/"
 
 <h1>Meet Katie Coard</h1>
 <span class="gray"><i>Rotarian, Online Content Manager and Educator</i></span>
-<div class="social-icons">
-    <a class="no-underline" href="https://facebook.com/katiecoard">
+<div>
+    <a href="https://facebook.com/katiecoard">
       <i class="fa fa-facebook"></i>
     </a>
-    <a class="no-underline" href="mailto:katiebmcoard@gmail.com">
+    <a href="mailto:katiebmcoard@gmail.com">
       <i class="fa fa-envelope-o"></i>
     </a> 
-    <a class="no-underline" href="https://ca.linkedin.com/in/katiecoard">
+    <a href="https://ca.linkedin.com/in/katiecoard">
       <i class="fa fa-linkedin-square"></i>
     </a>
-    <a class="no-underline" href="https://twitter.com/RethinkRotary">
+    <a href="https://twitter.com/RethinkRotary">
       <i class="fa fa-twitter"></i>
     </a>       
 </div>	
-<h7><b>How can I make Rotary relevant to my generation? How can I improve the online presence and branding of Rotary? What do people want from being a member of Rotary?</b></h7> Katie found herself spending so much  time thinking about these types of questions that she decided one day to take action. Rethink Rotary was created! Hang on though, we are getting ahead of ourselves. Let’s start from the beginning.
+<h7><b>Let's face it Rotary is struggling. Rotary is losing it's relevancy in today's modern world especially when the average age of a Rotarian in 58 years old. the organisation has not adapted to fit into changing generational expectations and now we face an amazing organisation being pushed to the sidelines.</b></h7> As the world's largest service organisation, Rotary needs to be at the cutting edge of service organisations. It needs to retain the core Rotary values but show the world how professional development, volunteering, leadership and networking can be achieved through one flexible, acessible, engaged and active organisation. How do we make Rotary relevant again? We have to Rethink Rotary starting at the club level. I found myself spending so much time pondering this dilema that I decided to take action. Rethink Rotary was created with the vision of providing a space where we can have a conversation on how to make clubs more relevant and engaged. Hang on though, we are getting ahead of ourselves. Let’s start from the beginning.
 
 <h3><b>Learning the ropes in Rotaract</b></h3>
-Originally from England, she got involved with Rotary when she moved to Canada to attend University. Katie got involved with Rotaract in Ontario then in Victoria, British Columbia. During her time with the Rotaract Club of Victoria, Katie served as co-president and chaired various committees. When she wasn’t active with the Rotaract club she working hard towards a BSc in Linguistics. Katie graduated with honours and a presidential citation in 2013. She was also passionate about volunteering with nonprofits focused on stroke recovery and speech therapy.nnnn
+Originally from England, she got involved with Rotary when she moved to Canada to attend University. Katie got involved with Rotaract in Ontario then in Victoria, British Columbia. During her time with the Rotaract Club of Victoria, Katie served as co-president and chaired various committees. When she wasn’t active with the Rotaract club she working hard towards a BSc in Linguistics. Katie graduated with honours and a presidential citation in 2013. She was also passionate about volunteering with nonprofits focused on stroke recovery and speech therapy.
 
 <h3><b>What do I do now?</b></h3>
 After graduating, Katie faced the question that many graduates ask themselves: “What do I do now?” Passionate about nonprofits and Rotary, she realised that she always approached these amazing organisations from the standpoint of how can they market themselves better or increase their online content to become even more successful. It seemed perfectly logical especially with her linguistic background and passion for language, to develop her skills as an online content manager and brand marketing advisor for nonprofits and small companies. Some clients include: Be Fit Victoria, Creative Sign Design to name a few. 
@@ -41,5 +41,3 @@ During her time creating and tackling the reasoning behind creating the club, Ka
 
 <h3><b>Reach out</b></h3>
 Katie loves to hear from Rotarians and Rotary club from all over the world. Reach out to Katie personally, send a guest blog to be published, engage with a Rethink Rotary blog/tweet or email about the services Rethink Rotary provides. For us to work to make Rotary relevant to the world we live in, we have to start a conversation. Now's the time
-
-

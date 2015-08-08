@@ -7,7 +7,7 @@
 layout: frontpage
 title: "Rethink Rotary"
 header:
-   image_fullwidth: "tree.jpg"
+   image_fullwidth: "unsplash_leaf_header.jpg"
 widget-1:
     title: "How Can We Help?"
     url: 'http://katiecoard.github/rethinkrotary'
@@ -25,9 +25,9 @@ widget-3:
     image: kat.jpg
 ---
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
+<!-- <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
-</div>
+</div> -->
