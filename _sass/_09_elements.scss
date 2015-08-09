@@ -257,6 +257,15 @@ img.lazy {
   transition: 0.2s;
 }
 
+img.align-left {
+  float: left;
+  marign-right: 10px;
+}
+
+img.medium {
+  width: 250px;
+  height: 250px;
+}
 #mc-embedded-subscribe:hover {
   background-color: lighten($primary-color, 10%) !important;
   border-color: lighten($primary-color, 5%) !important;
@@ -301,4 +310,3 @@ img.lazy {
     font-weight: 800;
   }
 }
-

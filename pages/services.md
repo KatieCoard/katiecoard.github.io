@@ -7,12 +7,12 @@ show_meta: false
 subheadline: ""
 permalink: "/services/"
 header:
-   image_fullwidth: "lonelytree.jpg"
+   image_fullwidth: "treesunlight.jpg"
 comments: false
 ---
 
 <blockquote>"If Rotary is to realize it's proper destiny, it must be evolutionary at all times, revolutionary on occasions" - Paul Harris</blockquote> 
-Rotary is struggling to keep up with the changing needs of different generations. We live in an online, fast paced, changeable world. Your club has to produce meaningful online content to stand a chance to compete. I can help use the skills I have developed in my work as an online content manager and my experience with Rotary to provide necessary and useful services to any Rotary club. There are plently of future Rotarians out there, they just don't know it yet.
+Rotary is struggling to keep up with the changing needs of different generations. We live in an online, fast paced, changeable world. Your club has to produce meaningful online content to stand a chance to compete. I can help use the skills I have developed in my work as an online content manager and my experience with Rotary to provide necessary and useful services to any Rotary club. I want to train Rotarians all over the world to learn these essential skills to better their clubs and Rotary as a whole. There are plently of future Rotarians out there, they just don't know it yet.
 
 <hr size="1px" color="#92927f" width="630" align="right">
 
@@ -30,7 +30,7 @@ Rotary is struggling to keep up with the changing needs of different generations
 
 <div class="column1">
 	<h3>Training/Workshops</h3>
-	<p>I like to get members focusing on why they joined Rotary, distilling those core values, then helping implement those values in social media. These workshops serve as an way for members to  be comfortable in what social media is about and what role it can play for their club.</p>
+	<p>Teaching your club members the skills to manage your club's online presence is essential. Wouldn't it be amazing if clubs everywhere knew how to redesign their website or manage their social media expertly? It might seem daunting to learn these skills but they are in valuable. Having a small group of members who are comfortable with these skills will really benefit your club. I like to focus on two key areas in my training. First, teaching basic skills like html, css and website marketing focused on showcasing your Rotary club in the best way. Second, I like to get members focusing on why they joined Rotary, distilling those core values, then helping implement those values in social media. These workshops serve as an way for members to  be comfortable in what social media is about and what role it can play for their club.</p>
 </div>
 <div class="column2">
 	<h3>Club Health Check</h3>

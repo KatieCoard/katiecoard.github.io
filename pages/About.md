@@ -7,7 +7,7 @@ show_meta: false
 subheadline: "Creating an Online Source for Rotarians Worldwide"
 permalink: "/WhyRethinkRotary/"
 header:
-   image_fullwidth: "tree.jpg"
+   image_fullwidth: "leaves.jpg"
 comments: false
 ---
 <img src="/assets/img/katie.jpg" style='border-radius: 100%;'>
