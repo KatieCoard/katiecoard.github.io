@@ -10,18 +10,18 @@ header:
    image_fullwidth: "unsplash_leaf_header.jpg"
 widget-1:
     title: "How Can We Help?"
-    url: 'http://katiecoard.github/rethinkrotary'
-    text: "In order to stay relevant in the modern world, Rotary clubs and Rotarians worldwide need to be open to change. However, sometimes it's hard to know where to go for the right advice. That's where Rethink Rotary comes in!<br><br>We can recommend a multitude of services to help Rotary clubs embrace the change and make sure it works for them. Some popular services are website design, social media management, workshops and our special Club Health Check."
+    url: '/services/'
+    text: "In order to stay relevant in the modern world, Rotary clubs and Rotarians worldwide need to be open to change. However, sometimes it's hard to know where to go for the right advice. I want to use my professional skills to help Rotary clubs and ensure Rotary stays relevant.<br><br>I offer a multitude of services to help Rotary clubs embrace change and make sure it works for them. Some relevant services I offer are website design, social media management, workshops and a club health check."
     image: socialmedia.jpg
 widget-2:
     title: "Rethink Rotary Blog"
-    url: 'http://phlow.github.io/feeling-responsive/info/'
-    text: "Welcome to the Rethink Rotary blog. The blog has been created to encourage conversation amongst Rotarians on how to change their club for the better while retaining what makes Rotary Rotary. <br><br>Posts focus on things such as rethinking meeting structure, improving your club website, managing social media and generally looking at your club critically for the aspects that need to be improved."
+    url: '/blog/'
+    text: "Welcome to the Rethink Rotary blog. The blog has been created to encourage conversation amongst Rotarians on how to change their club for the better while retaining what makes Rotary Rotary. Posts will provide an online resource and hopefully answer the questions you have but didn't know where to look for the answers. <br><br>Posts focus on things such as rethinking meeting structure, improving your club website, managing social media and generally looking at club from the outside to see where improvements can be made."
     image: unsplash_4.jpg
 widget-3:
     title: "Why Rethink Rotary"
-    url: 'https://github.com/Phlow/feeling-responsive'
-    text: "Meet the creator Katie Coard and understand why she felt the need to create the Rethink Rotary blog. The goal is to make Rotary the best it can be so future generations can enjoy all it offers and provides to the world.<br><br> Her Rotary experience coming through the new generations program and professional experience as an online content manager place her in a great position to create a safe space where Rotarians and Rotary clubs can ask the questions they want to ask. "
+    url: '/whyrethinkrotary/'
+    text: "Meet me, Katie Coard, and understand why I felt the need to create the Rethink Rotary blog. The goal is to make Rotary the best it can be so future generations can enjoy all it offers and provides to the world.<br><br> My Rotary experience and professional experience place me in a unique position to create a safe space where Rotarians and Rotary clubs can ask the questions they want to ask."
     image: kat.jpg
 ---
 
