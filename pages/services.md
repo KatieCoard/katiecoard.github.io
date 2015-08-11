@@ -7,7 +7,7 @@ show_meta: false
 subheadline: ""
 permalink: "/services/"
 header:
-   image_fullwidth: "treesunlight.jpg"
+   image_fullwidth: "window.jpg"
 comments: false
 ---
 
@@ -30,7 +30,7 @@ Rotary is struggling to keep up with the changing needs of different generations
 
 <div class="column1">
 	<h3>Training/Workshops</h3>
-	<p>Teaching your club members the skills to manage your club's online presence is essential. Wouldn't it be amazing if clubs everywhere knew how to redesign their website or manage their social media expertly? It might seem daunting to learn these skills but they are in valuable. Having a small group of members who are comfortable with these skills will really benefit your club. I like to focus on two key areas in my training. First, teaching basic skills like html, css and website marketing focused on showcasing your Rotary club in the best way. Second, I like to get members focusing on why they joined Rotary, distilling those core values, then helping implement those values in social media. These workshops serve as an way for members to  be comfortable in what social media is about and what role it can play for their club.</p>
+	<p>Teaching your club members the skills to manage your club's online presence is essential. Wouldn't it be amazing if clubs everywhere knew how to redesign their website or manage their social media expertly? It might seem daunting to learn these skills but they are in valuable. Having a small group of members who are comfortable with these skills will really benefit your club. I like to focus on two key areas in my training. First, teaching basic skills to like html, css and website marketing focused on showcasing your Rotary club in the best way. Second, I like to get members focusing on why they joined Rotary, distilling those core values, then helping implement those values in social media. These workshops serve as an way for members to  be comfortable in what social media is about and what role it can play for their club.</p>
 </div>
 <div class="column2">
 	<h3>Club Health Check</h3>

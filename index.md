@@ -7,7 +7,7 @@
 layout: frontpage
 title: "Rethink Rotary"
 header:
-   image_fullwidth: "wood.jpg"
+   image_fullwidth: "window.jpg"
 widget-1:
     title: "How Can We Help?"
     url: '/services/'
