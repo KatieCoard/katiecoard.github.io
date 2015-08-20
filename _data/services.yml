@@ -1,15 +1,21 @@
-- menu_name: "Services"
+- menu_name: "Quick Links"
 
-- name: "My Services"
-  url: "/services/"
-  class: "services-link"
-  title: "Services I can provide"
+- name: "Blog"
+  url: "/blog/"
+  title: "Blog"
 
 - name: "Get In Touch"
   url: "/contact/"
   class: "services-contact"
   title: "Contact"
 
-- name: "Sitemap"
-  url: "/sitemap.xml"
-  title: "sitemap"
+- name: "My Services"
+  url: "/services/"
+  class: "services-link"
+  title: "Services I can provide"
+
+- name: "Why Rethink Rotary"
+  url: "/whyrethinkrotary/"
+  title: "Why Rethink Rotary"
+
+
