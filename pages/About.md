@@ -7,7 +7,7 @@ show_meta: false
 subheadline: "Creating an Online Source for Rotarians Worldwide"
 permalink: "/WhyRethinkRotary/"
 header:
-   image_fullwidth: "window.jpg"
+   image_fullwidth: "upviewtrees.jpg"
 comments: false
 ---
 <img src="/assets/img/katie.jpg" style='border-radius: 100%;'>
@@ -38,7 +38,7 @@ How do we make Rotary relevant again? We have to Rethink Rotary starting at the 
 Originally from England, I got involved with Rotary through Rotaract when I moved to Canada to attend University. During my time with the Rotaract Club of Victoria, I served as co-president and chaired various committees. When I wasn’t active with the Rotaract club, I was working hard towards a BSc in Linguistics. I graduated with honours and a presidential citation in 2013.
 
 <h3><b>What do I do now?</b></h3>
-After graduating, I faced the question that many graduates ask themselves: “What do I do now?”. Passionate about nonprofits and Rotary, I realised that I always approached these amazing organisations from the standpoint of how can they market themselves better or how can they increase their online content to become more successful. It seemed perfectly logical especially with my linguistic background, to develop my skills as an online content manager and brand marketing advisor for nonprofits and small companies. My work includes developing websites, creating and managing social media accounts and co-ordinating marketing strategies. This includes understanding how social media works and what makes a post stand out against others. Some clients include: Be Fit Victoria, Rotary Club of Downtown Victoria, Creative Sign Design to name a few. 
+After graduating, I faced the question that many graduates ask themselves: “What do I do now?”. Passionate about nonprofits and Rotary, I realised that I always approached these amazing organisations from the standpoint of how can they market themselves better or how can they increase their online content to become more successful. It seemed perfectly logical especially with my linguistic background, to develop my skills as an online content manager and brand marketing advisor for nonprofits and small companies. My work includes developing websites, creating and managing social media accounts and co-ordinating marketing strategies. This includes understanding how social media works and what makes a post stand out against others. 
 
 <h3><b>Hang on, something isn't right here!</b></h3>
 In 2014, while still active in Rotaract as past-president I started thinking about my future in Rotary. I noticed a big problem, there were plenty of Rotaractors who, once they graduated or felt too old to continue in Rotaract, just left the Rotary family never to return. Why weren't they joining established Rotary clubs? Why was there such a disconnect between these clubs and younger potential members? So along with a fellow Rotaractor, I decided to start a new Rotary club; one which focused on being flexible, economical, active and accessible for all who wanted to join Rotary. I was able to use my expertise to develop a new look Rotary <a href="https://www.victoriarotary.com">website</a> for the club which focused on being an advertising tool rather than losing its message by being both a member focused and advertising brochure website.  
