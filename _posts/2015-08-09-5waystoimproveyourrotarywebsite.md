@@ -3,7 +3,7 @@ layout: page
 sidebar: right
 subheadline: Your Journey to a better website
 title:  "5 Steps to Instantly Improve Your Rotary Website"
-teaser: ""
+teaser: "These easy steps will help you look at your club website critically and give you ways to move forward to make your club website the best it can be."
 tags:
     - 
 categories:
