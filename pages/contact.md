@@ -7,7 +7,7 @@ show_meta: false
 teaser: "Let's start the conversation"
 permalink: "/contact/"
 header:
-   image_fullwidth: "window.jpg"
+   image_fullwidth: "field.jpg"
 comments: false
 ---
 If you have questions, suggestions, want to submit a blog post, or just want to chat. The best way to get in touch is to email me at <a mailto="rethinkrotary@gmail.com">rethinkrotary@gmail.com</a>, or use the form below – either way they both end up in my inbox. 

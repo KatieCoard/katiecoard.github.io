@@ -7,7 +7,7 @@ show_meta: false
 subheadline: ""
 permalink: "/services/"
 header:
-   image_fullwidth: "window.jpg"
+   image_fullwidth: "field.jpg"
 comments: false
 ---
 
@@ -22,7 +22,7 @@ Rotary is struggling to keep up with the changing needs of different generations
 </div>
 
 <div class="column2">
-	<h3>Online Content Manager</h3>
+	<h3>Online Content</h3>
 	<p>Creating online content is an art and requires great skill. You can't simply just post on Facebook or Twitter, you have to cultivate an online audience and create material which has online value. An online content manager does the work for you so you don't have to worry. I can work with your club to create strategies and action plans to ensure your club's objectives are met across all social media mediums.</p>
 </div>
 

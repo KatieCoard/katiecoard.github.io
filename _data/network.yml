@@ -1,7 +1,13 @@
-- menu_name: "Useful Rotary Websites"
-
-- name: "Rotary International"
-  url: "https://www.rotary.org/"
+- menu_name: "Other Recommended Rotary Blogs"
 
 - name: "Rotary Voices"
   url: "http://blog.rotary.org/"
+
+- name: "Rotary Blogger"
+  url: "http://rotaryblogger.co.uk/"  
+
+- name: "Rotarian Economist"
+  url: "http://rotarianeconomist.com/"
+
+- name: "Rotary Retention Central"
+  url: "http://zone34retentioncentral.blogspot.ca/"
