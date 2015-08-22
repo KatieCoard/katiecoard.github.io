@@ -34,7 +34,10 @@ format: page-fullwidth
 			{{ content }}
 		</article>
 
+	
+	{% if page.share == true %}
 	{% include share-post.html %}
+	{% endif %}
 
 	<section id="comments">
 		{% if page.comments == true %}
