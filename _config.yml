@@ -29,12 +29,13 @@ baseurl: ""
 improve_content: https://github.com/KatieCoard/katiecoard.github.io/edit/master
 
 # This URL points directly to the images directory making
-# things easier to link to images in posts and templates. It needs a slash.
+# things easier to link to images in posts and templates. It DOESN'T NEED 
+# a slash.
 #
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "http://katiecoard.github.io/images/"
+urlimg: "http://katiecoard.github.io/images"
 
 
 # Logo size is 600x80 pixels
