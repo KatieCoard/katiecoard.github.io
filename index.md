@@ -22,7 +22,7 @@ widget-3:
     title: "Why Rethink Rotary"
     url: 'whyrethinkrotary/'
     text: "Meet me, Katie Coard, and understand why I have created the Rethink Rotary blog. The goal is to make Rotary the best it can be so future generations can enjoy all it offers and provides to the world.<br><br> My Rotary experience and professional experience place me in a unique position to create a safe space where Rotarians and Rotary clubs can ask the questions they want to ask."
-    image: kat.jpg
+    image: katie.jpg
 ---
 
 <!-- <div id="videoModal" class="reveal-modal large" data-reveal="">
