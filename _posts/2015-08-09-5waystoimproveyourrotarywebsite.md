@@ -15,6 +15,7 @@ header:
 image:
     thumb:  map_thumb.jpg
     homepage: map_homepage.jpg
+share: true
 ---
 Imagine you have a guest from out of town coming to stay with you at your house. What would you normally do before they arrive? Vacuum, clean, shove random items in closets? We’ve all done it, we want our home to be a good representation of us. Your Rotary club's website is no different. For many prospective members, your club website will be their first glimpse at your club. You want them to get a good impression of you and want to come to a meeting. You don’t want to leave them with a bad impression before you have had the chance to actually meet them!
 
