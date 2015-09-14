@@ -23,7 +23,7 @@ I first became part of the Rotary family back in 2010 when I joined Rotaract. Th
 
 Every Rotary conference tries to think out of the box, some better than others, and I can safely say this one was one of the best.  Organisers had designed a dynamic, interactive and engaging program. Workshops facilitated by the Haas School of Business had participants discussing, writing down, illustrating our ideas and then presenting them to the larger group. Participants were encouraged to address issues Rotary is facing in appealing to young professionals in particular. 
 
-There were several key themes and prevailing stereotypes discussed:  
+There were several themes and prevailing stereotypes discussed:  
 <ol>
     <li><b><h4>Age</h4></b>Both young professionals and District leaders recognised the same stereotypes which might be holding Rotary back. Most importantly, district leaders were open to change and ideas about how we can try and change these stereotypes. This showed me that age is not a factor in whether Rotary clubs begin to adapt to changing generations, it’s your attitude to change that impacts how Rotary will grow in the coming years.</li>
     <li><b><h4>Meeting style</h4></b>Encouraging clubs to question how they meet and why they do what they do was a big topic of discussion. Young professionals may not see the benefit of being required to pay to eat at every meeting or singing the national anthem. Being respectful to tradition is important but clubs have to consider what signals their meeting format is sending to potential members.</li> 
