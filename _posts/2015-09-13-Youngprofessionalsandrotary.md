@@ -14,7 +14,7 @@ header:
     caption_url: ""
 image:
     thumb:  YPthumb.jpg
-    homepage: YPSummiy.jpg.jpg
+    homepage: YPSummiy.jpg
 share: true
 ---
 This summer in Berkeley, California, a group of Rotary young professionals and District leaders from zones 25 and 26 came together to discuss the future of Rotary. I was fortunate enough to attend this summit to find out what we can do to attract younger adults to the organisation. Rotary is renowned the world over for being the organization that works together to achieve results and this summit was no different. It managed to harness the attitudes of all Rotarians in attendance and help us focus on what younger Rotarians are looking for.
