@@ -2,10 +2,11 @@
 
 {% if page.header.image_fullwidth %}
 <script>
-    $("#masthead").backstretch("{{ site.urlimg }}/{{ page.header.image_fullwidth }}", {fade: 700});
-    $("#masthead-with-text").backstretch("{{ site.urlimg }}/{{ page.header.image_fullwidth }}", {fade: 700});
+    $("#masthead").backstretch("{{ site.urlimg }}/fireworks.gif", {fade: 700});
+    $("#masthead-with-text").backstretch("{{ site.urlimg }}/fireworks.gif", {fade: 700});
 
-    window.adamDebug = "{{ site.urlimg }}/{{ page.header.image_fullwidth }}";
+    //previously: {{ site.urlimg }}/{{ page.header.image_fullwidth }}
+    window.adamDebug = "{{ site.urlimg }}/fireworks.gif";
 </script>
 {% endif %}
 
