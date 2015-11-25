@@ -7,14 +7,14 @@ teaser: "Struggling to know what to post on your Rotary Facebook page? Follow th
 tags:
     - 
 categories:
-    - Social Media
+    - Rethink Rotary
 header:
-    image_fullwidth: "RotaryFacebook80-20RuleHeader.jpg"
+    image_fullwidth: "RotaryFacebook8020RuleHeader.jpg"
     caption: 
     caption_url: ""
 image:
-    thumb:  RotaryFacebook80-20RuleThumb.jpg
-    homepage: RotaryFacebook80-20RuleHeader.jpg
+    thumb:  RotaryFacebook8020RuleThumb.jpg
+    homepage: RotaryFacebook8020RuleHeader.jpg
 share: true
 ---
 Struggling to engage with people on your Rotary club’s Facebook page? Let’s be honest it’s hard work.  The fact that many companies, and some clubs, pay for professionals is all the proof you need.  I do this in my line of work for many clients. It is both an art and science to cultivate good content to post.  Not only do you have to write a good post, you have to know things like the statistically optimal times to share your messages. I know, most Rotary clubs can’t afford to employ a social media expert. So I wanted to share an invaluable piece of advice when posting on any social media platform: the 80/20 rule. 
@@ -25,7 +25,7 @@ Now, don’t just post anything to meet your 80% quota. Consider for a moment th
 
 Make sure you don’t neglect the remaining 20% though! These types of posts are where you boast about achievements, share events and ask for help at fundraisers. Sell your club, sell your successes, sell your goals. You have to share this type of information to impact your club and make a difference. In the industry, it is called making a conversion. A conversion is when you encourage your audience towards some goal, like RSVPing to an event or sending your club a message. 
 
-Like everything else in life, the path to a successful social media campaign is through planning.  Have a objectives, plans to get there, and metrics for success. Grow your audience first. The 80/20 rule, in conjunction with my advice about <a href="http://rethinkrotary.com/FacebookScheduler/">scheduling Facebook  posts </a>, put your club well on the way to having a thriving social media presence
+Like everything else in life, the path to a successful social media campaign is through planning.  Have a objectives, plans to get there, and metrics for success. Grow your audience first. The 80/20 rule, in conjunction with my advice about <a href="http://rethinkrotary.com/FacebookScheduler/">scheduling Facebook  posts </a>, put your club well on the way to having a thriving social media presence.
 
 <!-- ## Other Post Formats
 {: .t60 }
