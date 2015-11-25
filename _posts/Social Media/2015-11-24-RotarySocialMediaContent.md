@@ -2,12 +2,12 @@
 layout: page
 sidebar: right
 subheadline: Learn what content works and what doesn't on your Rotary Facebook Page
-title:  "How to Increase your Rotary Facebook Audience with this One Simple Rule"
+title:  "How to Increase Your Rotary Facebook Audience with this One Simple Rule"
 teaser: "Struggling to know what to post on your Rotary Facebook page? Follow this one simple rule to help guide your online content"
 tags:
     - 
 categories:
-    - Rethink Rotary
+    - Social Media
 header:
     image_fullwidth: "RotaryFacebook8020RuleHeader.jpg"
     caption: 
@@ -26,6 +26,8 @@ Now, don’t just post anything to meet your 80% quota. Consider for a moment th
 Make sure you don’t neglect the remaining 20% though! These types of posts are where you boast about achievements, share events and ask for help at fundraisers. Sell your club, sell your successes, sell your goals. You have to share this type of information to impact your club and make a difference. In the industry, it is called making a conversion. A conversion is when you encourage your audience towards some goal, like RSVPing to an event or sending your club a message. 
 
 Like everything else in life, the path to a successful social media campaign is through planning.  Have a objectives, plans to get there, and metrics for success. Grow your audience first. The 80/20 rule, in conjunction with my advice about <a href="http://rethinkrotary.com/FacebookScheduler/">scheduling Facebook  posts </a>, put your club well on the way to having a thriving social media presence.
+
+I'd love to hear your opinions and experiences with posting on Facebook, comment on the post or email me rethinkrotary@gmail.com. If your club or district is interested in social media training, get in touch!
 
 <!-- ## Other Post Formats
 {: .t60 }

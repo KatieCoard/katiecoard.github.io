@@ -7,7 +7,7 @@ teaser: "Learn how to save time and build up your Facebook engagment through one
 tags:
     - 
 categories:
-    - Rethink Rotary
+    - Social Media
 header:
     image_fullwidth: "facebookschedbanner.jpg"
     caption: 
