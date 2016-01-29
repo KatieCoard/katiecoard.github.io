@@ -42,11 +42,8 @@
 	{% if page.meta_description %}<meta property="og:description" content="{{ page.meta_description | strip_html | escape }}"/>{% elsif page.description %}<meta property="og:description" content="{{ page.description | strip_html | escape }}"/>{% elsif site.description %}<meta property="og:description" content="{{ site.description | strip_html | escape }}"/>{% endif %}
 	<meta property="og:url" content="{{ site.url }}{{ site.baseurl }}/{{ page.url }}" />
 	{% if site.title %}<meta property="og:site_name" content="{{ site.title }}" />{% endif %}
-	{% if page.image.thumb %}<meta property="og:image" content="{% if page.thumbnail %}{{ page.thumbnail | prepend: site.baseurl | prepend: site.url }}{% else %}{{ {{baseurl}}/avatar | prepend: site.baseurl | prepend: site.url }}" />{% endif %}
-	<meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}" />{% endif %}
+	{% if page.image.thumb %}<meta property="og:image" content="{{ site.urlimg }}/{{ page.image.thumb }}" />{% endif %}
 
-
-	<!-- "{{ site.urlimg }}/{{ page.image.thumb }}" --> 
 
 	{% if site.alexa_verify_id %}<meta name="alexaVerifyID" content="{{ site.alexa_verify_id }}" />{% endif %}
 
