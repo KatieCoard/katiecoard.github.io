@@ -16,7 +16,6 @@ image:
     thumb:  rotary-what-your-story-thumbnail.png
     homepage: rotary-whats-your-story-header.png
 share: true
-show_meta: true
 ---
 Most Rotary clubs would be elated to have the chance to add new members on a regular basis. Many around the world have used traditional recruitment methods such as membership drives, print advertising and inviting guest speakers to join.  While clubs have success with these methods finding prospective members, there is a key component that will help to convert more people into actual members.
 
