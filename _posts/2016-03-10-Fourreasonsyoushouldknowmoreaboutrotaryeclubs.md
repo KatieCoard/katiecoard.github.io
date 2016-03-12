@@ -19,7 +19,7 @@ share: true
 ---
 Want to help rethink Rotary? Here’s four reasons why you should learn more about e-clubs!
 
-Recently, I was invited by the Rotary e-club committee to talk about Rethink Rotary and how that relates to e-clubs. At the end of the meeting I was asked, “When you were founding a club whyd did you not consider an e-club?”. My response was brief and honest. I simply did not know it was possible. 
+Recently, I was invited by the Rotary e-club committee to talk about Rethink Rotary and how that relates to e-clubs. At the end of the meeting I was asked, “When you were founding a club why did you not consider an e-club?”. My response was brief and honest. I simply did not know it was possible. 
 
 I’m not going to advocate that e-clubs are for everyone but they are a way of doing Rotary, that non Rotary e-clubs shouldn’t ignore. So here are four reasons why every Rotarian should learn more about e-clubs:
 
