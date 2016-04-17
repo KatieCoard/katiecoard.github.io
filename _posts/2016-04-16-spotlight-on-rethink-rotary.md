@@ -1,8 +1,8 @@
 ---
 layout: page
 sidebar: right
-subheadline: Rethink Rotary's Katie Coard was recently interviewed about chartering a Rotary club, Rotary stereotypes and why Rotary is so important
-title:  "How Do You Charter a Rotary Club and Other Questions: An Interview"
+subheadline: An interview about chartering a Rotary club, Rotary stereotypes and why Rotary is so important
+title:  "Spotlight on Rethink Rotary: How Do You Charter a Rotary Club and Other Questions"
 teaser: "Ever wondered what it's like trying to charter a Rotary club? Rethink Rotary's Katie Coard shared her experiences in a recent interview on the upcoming social good blog How To Do Some Good"
 tags:
     - 
@@ -32,7 +32,7 @@ I’ve been to several Rotary clubs and found that each club has its own persona
 I chatted with Katie Coard, founder of the newest Rotary club in Victoria, <a href="https://www.facebook.com/rotarydowntownvictoria/?fref=ts">RCDV</a>. Take a peek at what Rotary is all about!
 
 <strong>Congratulations Katie! RCDV was officially chartered two weeks ago. What do you think Rotary is all about?</strong>
-<blockquote>Rotary is all about getting involved in your community, creating friends with like-minded people, and making a difference. These are things that everyone wants, no matter if you are rich or poor, married or single, a teacher or a CEO.</blockquote>
+<blockquote>Rotary is all about getting involved in your community, creating friends with like-minded people, and making a difference. These are things that everyone wants, no matter if you are rich or poor, married or single, a teacher or a CEO.
 
 <strong>How did you go about chartering a Rotary club?</strong>
 <blockquote>With passion, drive, dedication and time! The idea was conceived around Nov 2014. A few of us first started meeting in June 2015 and it’s been weekly meeting since then.  The first step to chartering a club is to submit an application to become a provisional club. Once that is approved, you have to find 20 people interested in becoming members of your club. I talked with anyone who could remotely be interested in being part of Rotary. We actively used our website and social media to promote our club. But I believe the most powerful way of spreading the word was via word of mouth. It was one of the most challenging and inspiring periods of my life.</blockquote>
@@ -45,7 +45,7 @@ I chatted with Katie Coard, founder of the newest Rotary club in Victoria, <a hr
 
 <div class="row">
     <div class="medium-8 columns t30">
-        <img src="{{ site.urlimg }}/charter-night-rotary-downtown-victoria.jpg" alt="rotary-club-charter-president-collecting-charter-document">
+        <img src="{{ site.urlimg }}/charternightrotary.jpg" alt="rotary-club-charter-president-collecting-charter-document">
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
@@ -67,7 +67,6 @@ I chatted with Katie Coard, founder of the newest Rotary club in Victoria, <a hr
 I hope you enjoyed reading through the interview. I found it a great exercise in reflection and grounding on why Rotary is so important and why we should be doing all we can to encourage more and more people to join. I can't wait to document my experience more for you in the coming months.
 
 <hr>
-</hr>
 Got questions about chartering a Rotary club or have you gone through the experience? Please share your story with me in the comments or <a href="http://rethinkrotary.com/contact/">send me a private message</a>.
 
 <!-- ## Other Post Formats
