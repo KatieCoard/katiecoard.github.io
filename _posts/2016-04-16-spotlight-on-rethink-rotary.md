@@ -3,7 +3,7 @@ layout: page
 sidebar: right
 subheadline: Rethink Rotary's Katie Coard was recently interviewed about chartering a Rotary club, Rotary stereotypes and why Rotary is so important
 title:  "How Do You Charter a Rotary Club and Other Questions: An Interview"
-teaser: "Ever wondered what it's like trying to charter a Rotary club? Rethink Rotary's Katie Coard shared her experiences in a recent interview on the upcoming social good blog <a href="http://howtodosomegood.com/">How To Do Some Good</a>"
+teaser: "Ever wondered what it's like trying to charter a Rotary club? Rethink Rotary's Katie Coard shared her experiences in a recent interview on the upcoming social good blog How To Do Some Good"
 tags:
     - 
 categories:
