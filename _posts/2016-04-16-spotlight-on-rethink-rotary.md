@@ -35,13 +35,7 @@ I chatted with Katie Coard, founder of the newest Rotary club in Victoria, <a hr
 <blockquote>Rotary is all about getting involved in your community, creating friends with like-minded people, and making a difference. These are things that everyone wants, no matter if you are rich or poor, married or single, a teacher or a CEO.
 
 <strong>How did you go about chartering a Rotary club?</strong>
-<blockquote>With passion, drive, dedication and time! The idea was conceived around Nov 2014. A few of us first started meeting in June 2015 and it’s been weekly meeting since then.  The first step to chartering a club is to submit an application to become a provisional club. Once that is approved, you have to find 20 people interested in becoming members of your club. I talked with anyone who could remotely be interested in being part of Rotary. We actively used our website and social media to promote our club. But I believe the most powerful way of spreading the word was via word of mouth. It was one of the most challenging and inspiring periods of my life.</blockquote>
-
-<strong>What are some stereotypes and misperceptions that people have about Rotary?</strong>
-<blockquote>Some people think that Rotary is only for old people, involves high membership fees, and you have to sing the national anthem at each meeting. I don’t know about all the clubs out there, but the club that we have created has removed these stereotypes in order to provide a platform that anyone can use to contribute to their local community, as well as globally.</blockquote>
-
-<strong>What inspired you to start a club on your own?</strong>
-<blockquote>I’ve been involved with other clubs and club members and I really enjoy them. The biggest reason that I created a new Rotary club is because I didn’t find any clubs that fit with my life and schedule.  I wanted Rotary to fit into members’ lives rather than the other way around. I wanted a club that is flexible with schedules while still being highly-active, as well as accessible to all, which includes being more relaxed and welcoming to members with families.</blockquote>
+<blockquote>With passion, drive, dedication and time! The idea was conceived around Nov 2014. A few of us first started meeting in June 2015 and it’s been weekly meeting since then.  The first step to chartering a club is to submit an application to become a provisional club. Once that is approved, you have to find 20 people interested in becoming members of your club. I talked with anyone who could remotely be interested in being part of Rotary. We actively used our website and social media to promote our club. But I believe the most powerful way of spreading the word was via word of mouth. It was one of the most challenging and inspiring periods of my life.
 
 <div class="row">
     <div class="medium-8 columns t30">
@@ -49,11 +43,18 @@ I chatted with Katie Coard, founder of the newest Rotary club in Victoria, <a hr
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}/blogpicturesockdrivevolunteers.jpg" alt="rotary-club-downtown-victoria-members-sock-drive">
-      <img class="t30" src="{{ site.urlimg }}/blogpictureourplace.jpg" alt="rotary-club-downtown-victoria-members-volunteering-ourplace">
+      <img src="{{ site.urlimg }}/rotary_district5020_DG.jpg" alt="rotary-club-downtown-victoria-members-sock-drive" caption="Rotary District 5020 DG Rose Bowman speaking at the Rotary Club of Downtown Victoria's charter night">
+      <img class="t30" src="{{ site.urlimg }}/charter_members_rotary_downtownvictoria.jpg" alt="rotary-club-downtown-victoria-members-volunteering-ourplace">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
+
+
+<strong>What are some stereotypes and misperceptions that people have about Rotary?</strong>
+<blockquote>Some people think that Rotary is only for old people, involves high membership fees, and you have to sing the national anthem at each meeting. I don’t know about all the clubs out there, but the club that we have created has removed these stereotypes in order to provide a platform that anyone can use to contribute to their local community, as well as globally.</blockquote>
+
+<strong>What inspired you to start a club on your own?</strong>
+<blockquote>I’ve been involved with other clubs and club members and I really enjoy them. The biggest reason that I created a new Rotary club is because I didn’t find any clubs that fit with my life and schedule.  I wanted Rotary to fit into members’ lives rather than the other way around. I wanted a club that is flexible with schedules while still being highly-active, as well as accessible to all, which includes being more relaxed and welcoming to members with families.</blockquote>
 
 <strong>How would you define success for the club? What do you want to see the club achieve in the next 5 years?</strong>
 <blockquote>One thing that I am most proud of is the number of people who are brand new to Rotary that have joined our club. I love that we are exposing people to the world of Rotary and the power it has to make a difference.  I define club success as us continuing to expose new people to Rotary, growing its membership and increasing the impact that we have both locally and internationally. I also consider it a success if other Rotary clubs begin to make Rotary a bit more flexible and accessible.</blockquote>
@@ -64,9 +65,9 @@ I chatted with Katie Coard, founder of the newest Rotary club in Victoria, <a hr
 <strong>For people who are not part of Rotary, tell them in 2-3 sentences why they should seriously consider joining.</strong>
 <blockquote>Rotary is the whole package whether you are looking to develop your leadership skills, volunteer more in your community, or impact communities abroad. Rotary gives you the tools and platform to not just participate, but to excel. It changed my life and it can change yours.</blockquote>
 
+<hr>
 I hope you enjoyed reading through the interview. I found it a great exercise in reflection and grounding on why Rotary is so important and why we should be doing all we can to encourage more and more people to join. I can't wait to document my experience more for you in the coming months.
 
-<hr>
 Got questions about chartering a Rotary club or have you gone through the experience? Please share your story with me in the comments or <a href="http://rethinkrotary.com/contact/">send me a private message</a>.
 
 <!-- ## Other Post Formats
