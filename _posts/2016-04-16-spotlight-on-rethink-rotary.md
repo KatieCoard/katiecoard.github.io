@@ -3,19 +3,18 @@ layout: page
 sidebar: right
 subheadline: Rethink Rotary's Katie Coard was recently interviewed about chartering a Rotary club, Rotary stereotypes and why Rotary is so important
 title:  "How Do You Charter a Rotary Club and Other Questions: An Interview"
-teaser: "Ever wondered what it's like trying to charter a Rotary club? Rethink Rotary's Katie Coard shared her experiences in a recent interview on the upcoming social good blog <a href="http://howtodosomegood.com/">How To Do Some Good</a>."
+teaser: "Ever wondered what it's like trying to charter a Rotary club? Rethink Rotary's Katie Coard shared her experiences in a recent interview on the upcoming social good blog <a href="http://howtodosomegood.com/">How To Do Some Good</a>"
 tags:
     - 
 categories:
     - Rethink Rotary
 header:
-    image_fullwidth: ""
+    image_fullwidth: "eclubbanner.jpg"
     caption: 
     caption_url: ""
 image:
-    title: eclubbanner.jpg
     thumb:  rotarydowntownvictoriasignthumb.jpg
-    homepage: eclubbanner.jpg
+    homepage: rotarydowntownvictoriasignthumb.jpg
 share: true
 ---
 It's been a whirlwind couple of months for me. I've been focused on chartering my Rotary Club, the <a href="http://rcdv.ca">Rotary Club of Downtown Victoria</a> (RCDV) as the 89th club in my District, District 5020. I am very happy to announce that we charted on March 8th and had our Charter meeting on 30th March. There is so much I want to share about my experiences during this time and I have some great posts planned for the coming months.For now, I wanted to share with you an interview I did last week about chartering a Rotary club. 
