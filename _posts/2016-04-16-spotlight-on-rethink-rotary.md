@@ -13,8 +13,8 @@ header:
     caption: 
     caption_url: ""
 image:
-    thumb:  rotarydowntownvictoriasignthumb.jpg
-    homepage: rotarydowntownvictoriasignthumb.jpg
+    thumb:  how-to-charter-a-rotary-club-rethink-rotary.jpg
+    homepage: how-to-charter-a-rotary-club-rethink-rotary.jpg
 share: true
 ---
 It's been a whirlwind couple of months for me. I've been focused on chartering my Rotary Club, the <a href="http://rcdv.ca">Rotary Club of Downtown Victoria</a> (RCDV) as the 89th club in my District, District 5020. I am very happy to announce that we charted on March 8th and had our Charter meeting on 30th March. There is so much I want to share about my experiences during this time and I have some great posts planned for the coming months.For now, I wanted to share with you an interview I did last week about chartering a Rotary club. 
